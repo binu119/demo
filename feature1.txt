@@ -1,2 +1,5 @@
 New feature added
+<<<<<<< HEAD
 New feature file lines
+=======
+>>>>>>> new-feature-1
